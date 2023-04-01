@@ -16,4 +16,4 @@ Upon unziping the file, keep the structure intact and use it that way.
 
 #### The files are safe, revised and certified by Microsofts Malware Detection Analysis.
 
-https://github.com/FabianGobet/stopwatchlistener/raw/master/windows/Stp-release.zip
+https://github.com/FabianGobet/stopwatchlistener/raw/master/Release.zip
