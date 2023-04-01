@@ -14,6 +14,6 @@ Keep in mind that all files are needed for it to work properly.
 
 Upon unziping the file, keep the structure intact and use it that way.
 
-#### The files are safe, revised and certified by Microsofts Malware Detection Analysis.
+#### The files are safe, they are currently in the process of being revised and certified by Microsofts Malware Detection Analysis.
 
 https://github.com/FabianGobet/stopwatchlistener/raw/master/Release.zip
